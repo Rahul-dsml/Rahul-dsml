@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Rahul-dsml
-- 👀 I’m interested in Machine Learning and Deep Learning Projects
-- 🌱 I’m currently learning Deep Learning from Liverpool John Moores University in collaboration with upGrad
-- 💞️ I’m looking to collaborate on Deep Learning projects
-- 📫 You can connect with me through LinkedIn www.linkedin.com/in/rahulsinghds
+- :zap: I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through this profile
+- 📫 How to find me: 
+  - :office: [LinkedIn](https://www.linkedin.com/in/rahulsinghds/)
 
-<!---
-Rahul-dsml/Rahul-dsml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=Rahul-dsml&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-dsml)](https://github.com/anuraghazra/github-readme-stats)
